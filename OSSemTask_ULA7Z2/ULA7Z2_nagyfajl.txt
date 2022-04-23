@@ -1,0 +1,1 @@
+Ez egy nagy fajl, egyetlen hosszu sorral, amelyet az ipc_write.c kiir az osztott memoria szegmensre. Ezt fogja az ipc_read.c kiolvasni, es kiirni a standard kimenetre.
